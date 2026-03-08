@@ -5,7 +5,7 @@
     HeteroPhy: SNP & Heterozygosity-Aware Phylogenetic Inference Pipeline
 ========================================================================================
     GitHub    : https://github.com/[your-lab]/heterophy
-    Author    : [Your Name]
+    Author    : Tomi Jacobs
     Lab       : [Your Lab / University]
     License   : MIT
     Citation  : [Your paper citation once published]
@@ -123,6 +123,7 @@ workflow {
     ╔══════════════════════════════════════════════════════════════════╗
     ║    H E T E R O P H Y   v 1 . 0 . 0                              ║
     ║    SNP & Heterozygosity-Aware Phylogenetic Inference             ║
+    ║    Author: Tomi Jacobs                                           ║
     ╚══════════════════════════════════════════════════════════════════╝
     input        : ${params.input}
     outdir       : ${params.outdir}
