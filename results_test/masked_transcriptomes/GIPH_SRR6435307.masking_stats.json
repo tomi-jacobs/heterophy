@@ -1,0 +1,12 @@
+{
+  "sample": "GIPH_SRR6435307",
+  "total_contigs": 32777,
+  "retained_contigs": 18144,
+  "filtered_contigs": 14633,
+  "total_bases": 33445251,
+  "masked_bases": 21387213,
+  "fraction_masked": 0.6395,
+  "contigs_no_coverage": 3520,
+  "min_depth_threshold": 5,
+  "min_length_threshold": 200
+}

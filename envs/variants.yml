@@ -1,0 +1,12 @@
+# envs/variants.yml — BCFtools SNP calling
+name: heterophy-variants
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+dependencies:
+  - bcftools=1.18
+  - htslib=1.18
+  - hisat2=2.2.1
+  - samtools=1.18
+  - python=3.11

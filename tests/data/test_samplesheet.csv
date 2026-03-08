@@ -1,0 +1,6 @@
+sample,reads_r1,reads_r2,transcriptome
+SAS01_Faucaria_tuberculosa,/data/reads/SAS01_R1.fastq.gz,/data/reads/SAS01_R2.fastq.gz,/data/transcriptomes/SAS01.fa
+SAS02_Carpobrotus_edulis,/data/reads/SAS02_R1.fastq.gz,/data/reads/SAS02_R2.fastq.gz,/data/transcriptomes/SAS02.fa
+SAS03_Mesembryanthemum_crystallinum,/data/reads/SAS03_R1.fastq.gz,/data/reads/SAS03_R2.fastq.gz,/data/transcriptomes/SAS03.fa
+SAS04_Lithops_aucampiae,/data/reads/SAS04_R1.fastq.gz,/data/reads/SAS04_R2.fastq.gz,/data/transcriptomes/SAS04.fa
+SAS05_Argyroderma_tesselarve,/data/reads/SAS05_R1.fastq.gz,/data/reads/SAS05_R2.fastq.gz,/data/transcriptomes/SAS05.fa

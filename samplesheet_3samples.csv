@@ -1,0 +1,4 @@
+sample,reads_r1,reads_r2,transcriptome
+ANLI_SRR6787505,/home/tomi/data/sras/ANLI_SRR6787505_1.fastq.gz,/home/tomi/data/sras/ANLI_SRR6787505_2.fastq.gz,/home/tomi/data/aim2/ANLI2.transdecoder.cds.fasta
+DEEC_ERR2040192,/home/tomi/data/sras/DEEC_ERR2040192_1.fastq.gz,/home/tomi/data/sras/DEEC_ERR2040192_2.fastq.gz,/home/tomi/data/aim2/DEEC2.transdecoder.cds.fasta
+GIPH_SRR6435307,/home/tomi/data/sras/GIPH_SRR6435307_1.fastq.gz,/home/tomi/data/sras/GIPH_SRR6435307_2.fastq.gz,/home/tomi/data/aim2/GIPH2.transdecoder.cds.fasta
