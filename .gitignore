@@ -3,23 +3,18 @@
 .nextflow.log*
 work/
 results/
-test_results/
+results_test/
+
+# Large sequencing files
+*.bam
+*.bai
+*.fastq
+*.fastq.gz
+*.fasta.gz
 
 # Python
 __pycache__/
 *.pyc
-*.pyo
-.pytest_cache/
-*.egg-info/
-
-# Conda
-.conda/
-
-# Editors
-.vscode/
-.idea/
-*.swp
 
 # OS
 .DS_Store
-Thumbs.db
