@@ -119,7 +119,7 @@ sudo mv nextflow /usr/local/bin/
 ### Clone the repository
 
 ```bash
-git clone https://github.com/[your-lab]/heterophy.git
+git clone https://github.com/tomi-jacobs/heterophy.git
 cd heterophy
 ```
 
