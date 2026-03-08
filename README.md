@@ -255,7 +255,8 @@ A significant KS test (p < 0.05) indicates that the two strategies produce meani
 If you use HeteroPhy in your research, please cite:
 
 ```
-[Your Name] et al. (2025). HeteroPhy: A bioinformatics pipeline for investigating
+PENDING!
+[Tomi Jacobs] et al. (2025). HeteroPhy: A bioinformatics pipeline for investigating
 the role of SNPs and heterozygosity in resolving evolutionary relationships from
 de novo transcriptomes. [Journal]. doi: [pending]
 ```
@@ -284,5 +285,5 @@ MIT License — see [LICENSE](LICENSE) for details.
 
 ## Contact
 
-[Your Name] · [Your Lab] · [Your University]  
-[your@email.edu]
+[Tomi Jacobs] · [Walker Lab] · [University of Illinois, Chicago]  
+[tomijacobs.e@gmail.edu]
