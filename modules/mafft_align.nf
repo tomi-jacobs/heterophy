@@ -20,9 +20,6 @@ process MAFFT_ALIGN {
     cat ${fastas} > ${strategy}.combined.fa
 
     # Align
-    mafft \\
-        ${params.mafft_args} \\
-        --thread ${task.cpus} \\
-        ${strategy}.combined.fa > ${strategy}.aligned.fa
+    mafft ${params.mafft_args} ${strategy}.combined.fa > ${strategy}.aligned.fa
     """
 }
